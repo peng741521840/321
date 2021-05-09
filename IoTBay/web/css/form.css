@@ -1,0 +1,55 @@
+
+
+.table{
+    position: fixed;
+    top:10%;
+    text-align: center;   
+    font-size: large;
+    color:#808080;       
+}
+
+.table td{
+    text-align: left;
+}
+
+input{
+    background-color:white;    ;
+    color: black;
+    font-size: 16px;
+    width: 250px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #FF6347;
+    background-color: #FFE4E1;
+    border: none;
+    border-radius: 10px; 
+    width: 80px;
+}
+
+.button:hover {background-color: #FF6347}
+
+.button:active {
+    background-color: #FF6347;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.date{   
+    background-color:#999999    ;
+    color: #3ffb09;
+    font-weight: bold;
+    font-size: 16px;
+    width: 122px;
+    height: 22px;
+    
+}
+
+
